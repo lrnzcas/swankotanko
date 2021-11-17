@@ -1,8 +1,8 @@
-h1{
-  font-family: Helvetica, sans-serif;
-  font-size: 100px;
-};
+h1 {
+  font-size: 200px;
+  font-family: monospace;
+}
 
 img {
   border-radius: 50%;
-};
+}

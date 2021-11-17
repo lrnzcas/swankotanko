@@ -1,3 +1,8 @@
-body {
-  background: orange;
+h1 {
+  font-size: 200px;
+  font-family: monospace;
+}
+
+img {
+  border-radius: 50%;
 }
